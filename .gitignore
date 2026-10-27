@@ -1,0 +1,9 @@
+# Logs & Environnements
+*.log
+.DS_Store
+Thumbs.db
+.vercel
+
+# Fichiers temporaires de travail
+assets/preview_*.png
+test.*
